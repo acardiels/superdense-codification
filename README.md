@@ -7,7 +7,7 @@
 A Python simulation of the **superdense coding protocol** built with [Qiskit](https://github.com/Qiskit/qiskit): Alice sends **two classical bits** to Bob by manipulating only **one qubit** of a shared entangled pair (an EPR pair). The project checks that the protocol worked by comparing the two bits Alice input with the two bits Bob recovers after his Bell-basis measurement.
 
 <p align="center">
-  <img src="images/superdense_coding_circuit.png" alt="Superdense coding circuit" width="800">
+  <img src="images/superdense_coding_circuit_11.png" alt="Superdense coding circuit" width="800">
 </p>
 
 ## 📖 The protocol in brief
